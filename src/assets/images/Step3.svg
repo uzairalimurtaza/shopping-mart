@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987" height="103" viewBox="0 0 987 103">
+  <g id="Group_420" data-name="Group 420" transform="translate(-465 -570)">
+    <line id="Line_62" data-name="Line 62" x2="809" transform="translate(554.5 600)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
+    <g id="Group_319" data-name="Group 319">
+      <circle id="Ellipse_148" data-name="Ellipse 148" cx="30" cy="30" r="30" transform="translate(506 570)" fill="#6f9642"/>
+      <path id="Shape" d="M22.612.4a1.276,1.276,0,0,1-.044,1.8L7.825,16.233a1.276,1.276,0,0,1-1.84-.084L.316,9.672a1.276,1.276,0,1,1,1.92-1.681L7.03,13.468,20.808.352A1.276,1.276,0,0,1,22.612.4Z" transform="translate(524.518 592)" fill="#fff"/>
+    </g>
+    <g id="Group_322" data-name="Group 322" transform="translate(424)">
+      <circle id="Ellipse_148-2" data-name="Ellipse 148" cx="30" cy="30" r="30" transform="translate(506 570)" fill="#6f9642"/>
+      <path id="Shape-2" data-name="Shape" d="M22.612.4a1.276,1.276,0,0,1-.044,1.8L7.825,16.233a1.276,1.276,0,0,1-1.84-.084L.316,9.672a1.276,1.276,0,1,1,1.92-1.681L7.03,13.468,20.808.352A1.276,1.276,0,0,1,22.612.4Z" transform="translate(524.518 592)" fill="#fff"/>
+    </g>
+    <g id="Group_323" data-name="Group 323" transform="translate(854)">
+      <circle id="Ellipse_148-3" data-name="Ellipse 148" cx="30" cy="30" r="30" transform="translate(506 570)" fill="#6f9642"/>
+      <path id="Shape-3" data-name="Shape" d="M22.612.4a1.276,1.276,0,0,1-.044,1.8L7.825,16.233a1.276,1.276,0,0,1-1.84-.084L.316,9.672a1.276,1.276,0,1,1,1.92-1.681L7.03,13.468,20.808.352A1.276,1.276,0,0,1,22.612.4Z" transform="translate(524.518 592)" fill="#fff"/>
+    </g>
+    <text id="Business_Info" data-name="Business Info" transform="translate(465 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Business Info</tspan></text>
+    <text id="Store_Info" data-name="Store Info" transform="translate(961 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="-51.592" y="0">Store Info</tspan></text>
+    <text id="Verification" transform="translate(1392 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="-59.15" y="0">Verification</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="841" height="87" viewBox="0 0 841 87">
+  <g id="Group_431" data-name="Group 431" transform="translate(-273 -643)">
+    <g id="Group_429" data-name="Group 429">
+      <line id="Line_80" data-name="Line 80" x2="718.795" transform="translate(331.5 667.902)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
+      <g id="Group_406" data-name="Group 406" transform="translate(25 -1)">
+        <text id="Processing" transform="translate(296 722)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-47.241" y="0">Processing</tspan></text>
+        <g id="Group_398" data-name="Group 398" transform="translate(-32 3)">
+          <ellipse id="Ellipse_170" data-name="Ellipse 170" cx="24.5" cy="25" rx="24.5" ry="25" transform="translate(304 642)" fill="#6f9642"/>
+          <text id="_1" data-name="1" transform="translate(323 676)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <g id="Group_403" data-name="Group 403" transform="translate(35 1)">
+        <text id="Delivered" transform="translate(1037 722)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-41.699" y="0">Delivered</tspan></text>
+        <g id="Group_402" data-name="Group 402">
+          <g id="Ellipse_172" data-name="Ellipse 172" transform="translate(1012 642)" fill="#fff" stroke="#707070" stroke-width="1">
+            <circle cx="25" cy="25" r="25" stroke="none"/>
+            <circle cx="25" cy="25" r="24.5" fill="none"/>
+          </g>
+          <text id="_4" data-name="4" transform="translate(1031 674)" fill="#787878" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+        </g>
+      </g>
+      <g id="Group_404" data-name="Group 404" transform="translate(100 2)">
+        <text id="Shipped" transform="translate(731 722)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-36.27" y="0">Shipped</tspan></text>
+        <g id="Group_401" data-name="Group 401" transform="translate(-306)">
+          <g id="Ellipse_172-2" data-name="Ellipse 172" transform="translate(1012 642)" fill="#6f9642" stroke="#707070" stroke-width="1">
+            <circle cx="25" cy="25" r="25" stroke="none"/>
+            <circle cx="25" cy="25" r="24.5" fill="none"/>
+          </g>
+          <text id="_3" data-name="3" transform="translate(1031 674)" fill="#ebefe7" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+        </g>
+      </g>
+      <g id="Group_426" data-name="Group 426" transform="translate(25 -1)">
+        <text id="Processing-2" data-name="Processing" transform="translate(296 722)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-47.241" y="0">Processing</tspan></text>
+        <g id="Group_398-2" data-name="Group 398" transform="translate(-32 3)">
+          <ellipse id="Ellipse_170-2" data-name="Ellipse 170" cx="24.5" cy="25" rx="24.5" ry="25" transform="translate(304 642)" fill="#6f9642"/>
+          <text id="_1-2" data-name="1" transform="translate(323 676)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+        </g>
+      </g>
+      <g id="Group_428" data-name="Group 428" transform="translate(23 4)">
+        <g id="Group_430" data-name="Group 430">
+          <g id="Group_427" data-name="Group 427" transform="translate(259 -1)">
+            <text id="Assigned" transform="translate(296 722)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-40.024" y="0">Assigned</tspan></text>
+            <g id="Group_398-3" data-name="Group 398" transform="translate(-32 -1)">
+              <ellipse id="Ellipse_170-3" data-name="Ellipse 170" cx="24.5" cy="25" rx="24.5" ry="25" transform="translate(304 642)" fill="#6f9642"/>
+              <text id="_2" data-name="2" transform="translate(323 676)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

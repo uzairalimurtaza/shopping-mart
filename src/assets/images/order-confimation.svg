@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448" height="259.494" viewBox="0 0 448 259.494">
+  <g id="Group_425" data-name="Group 425" transform="translate(-736 -528)">
+    <g id="Ellipse_93" data-name="Ellipse 93" transform="translate(876 528)" fill="none" stroke="#6f9642" stroke-width="7">
+      <circle cx="84" cy="84" r="84" stroke="none"/>
+      <circle cx="84" cy="84" r="80.5" fill="none"/>
+    </g>
+    <path id="Shape" d="M73.239,1.283A4.132,4.132,0,0,1,73.1,7.125L25.346,52.579a4.132,4.132,0,0,1-5.958-.271L1.023,31.329a4.132,4.132,0,1,1,6.218-5.444L22.769,43.622,67.4,1.139A4.132,4.132,0,0,1,73.239,1.283Z" transform="translate(922.9 585.4)" fill="#6f9642"/>
+    <text id="Thank_you_for_your_Order" data-name="Thank you for your Order" transform="translate(960 777.494)" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-223.682" y="0">Thank you for your Order</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="873" height="88" viewBox="0 0 873 88">
+  <g id="Group_425" data-name="Group 425" transform="translate(-163 -427)">
+    <line id="Line_81" data-name="Line 81" x2="698.395" transform="translate(245.033 452.898)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
+    <text id="Shopping_Cart" data-name="Shopping Cart" transform="translate(227 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-63.442" y="0">Shopping Cart</tspan></text>
+    <text id="Proceed_to_Checkout" data-name="Proceed to Checkout" transform="translate(592 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-92.207" y="0">Proceed to Checkout</tspan></text>
+    <circle id="Ellipse_174" data-name="Ellipse 174" cx="26" cy="26" r="26" transform="translate(568 427)" fill="#6f9642"/>
+    <text id="_2" data-name="2" transform="translate(588 460)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+    <text id="Order_Complete" data-name="Order Complete" transform="translate(964 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-71.162" y="0">Order Complete</tspan></text>
+    <g id="Ellipse_175" data-name="Ellipse 175" transform="translate(940 427)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="26" cy="26" r="26" stroke="none"/>
+      <circle cx="26" cy="26" r="25.5" fill="none"/>
+    </g>
+    <text id="_3" data-name="3" transform="translate(960 460)" fill="#787878" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+    <g id="Group_379" data-name="Group 379" transform="translate(-303 -143)">
+      <circle id="Ellipse_148" data-name="Ellipse 148" cx="26" cy="26" r="26" transform="translate(506 570)" fill="#6f9642"/>
+      <path id="Shape" d="M19.6.343a1.106,1.106,0,0,1-.039,1.563L6.782,14.069A1.106,1.106,0,0,1,5.188,14L.274,8.383A1.106,1.106,0,0,1,1.938,6.926l4.155,4.746L18.034.3A1.106,1.106,0,0,1,19.6.343Z" transform="translate(522.049 589.067)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

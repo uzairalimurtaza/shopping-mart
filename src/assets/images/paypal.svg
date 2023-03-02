@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="427" height="211" viewBox="0 0 427 211">
+  <g id="Group_426" data-name="Group 426" transform="translate(-160 -1836)">
+    <g id="Rectangle_330" data-name="Rectangle 330" transform="translate(160 1836)" fill="#fff" stroke="#bcbcbc" stroke-width="2">
+      <rect width="427" height="211" rx="8" stroke="none"/>
+      <rect x="1" y="1" width="425" height="209" rx="7" fill="none"/>
+    </g>
+    <g id="Group_383" data-name="Group 383" transform="translate(-20 -53)">
+      <text id="Visa_Mastercard_Debit_Credit_both" data-name="Visa/Mastercard Debit/Credit both" transform="translate(252 2052)" fill="#bdbdbd" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Visa/Mastercard Debit/Credit both</tspan></text>
+      <text id="Pay_by_Card" data-name="Pay by Card" transform="translate(327 2022)" fill="#101010" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Pay by Card</tspan></text>
+      <g id="Group_382" data-name="Group 382" transform="translate(70)">
+        <g id="mastercard-color_large" transform="translate(252.406 1933.604)">
+          <rect id="card_bg" width="68" height="44" rx="4" transform="translate(-0.405 0.396)" fill="#f2f0ec"/>
+          <g id="mastercard" transform="translate(6.509 4.479)">
+            <g id="Group" opacity="0">
+              <rect id="Rectangle" width="54.185" height="35.834" fill="#fff"/>
+            </g>
+            <rect id="Rectangle-2" data-name="Rectangle" width="14.292" height="23.348" transform="translate(19.947 6.243)" fill="#f26122"/>
+            <path id="Path" d="M18.433,14.852a14.81,14.81,0,0,1,5.6-11.674,14.852,14.852,0,1,0,0,23.348A14.81,14.81,0,0,1,18.433,14.852Z" transform="translate(3.053 3.065)" fill="#ea1d25"/>
+            <path id="Shape" d="M.7.576H.6V0h.14L.923.406,1.092,0h.14V.573h-.1V.14L.98.518H.868L.7.14V.574ZM.28.574H.2V.1H0V0H.49V.1H.28V.573Z" transform="translate(49.398 26.54)" fill="#f69e1e"/>
+            <path id="Path-2" data-name="Path" d="M24.02,14.842A14.852,14.852,0,0,1,0,26.516,14.852,14.852,0,0,0,2.492,5.674,14.558,14.558,0,0,0,0,3.168,14.852,14.852,0,0,1,24.02,14.842Z" transform="translate(27.086 3.075)" fill="#f69e1e"/>
+          </g>
+        </g>
+        <g id="visa-color_large" transform="translate(331 1934)">
+          <rect id="card_bg-2" data-name="card_bg" width="66" height="44" rx="4" fill="#2a2a6c"/>
+          <path id="visa-logo" d="M23.567,13.188a9.872,9.872,0,0,1-3.607-.68l.6-2.77a6.952,6.952,0,0,0,3.292.832h.088c.986-.014,1.981-.409,1.981-1.26.013-.543-.452-.974-1.718-1.593C22.956,7.108,21.3,6.086,21.3,4.239,21.3,1.743,23.583,0,26.844,0a8.884,8.884,0,0,1,3.1.568l-.581,2.77a6.25,6.25,0,0,0-2.66-.6c-.2,0-.408.01-.61.03-.957.127-1.385.627-1.385,1.067,0,.537.686.9,1.555,1.351,1.379.722,3.094,1.62,3.085,3.733l.07-.111c-.014,2.659-2.282,4.377-5.776,4.377Zm9.179-.11h-3.49L34.228,1.206A1.505,1.505,0,0,1,35.614.263h2.77L41.07,13.075l-3.074,0-.4-1.911h-4.17l-.678,1.911Zm3.3-9.351L34.3,8.532h2.756ZM17.592,13.035H14.267L17.038.222h3.324l-2.77,12.812Zm-7.272-.042H6.7L4.059,2.756a1.393,1.393,0,0,0-.79-1.122A13.737,13.737,0,0,0,0,.554L.084.18H5.721a1.549,1.549,0,0,1,1.537,1.3l1.385,7.41L12.093.18h3.6L10.32,12.992Z" transform="translate(12.688 15.556)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

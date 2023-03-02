@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="987" height="103" viewBox="0 0 987 103">
+  <g id="Group_417" data-name="Group 417" transform="translate(-465 -570)">
+    <g id="Group_416" data-name="Group 416">
+      <line id="Line_62" data-name="Line 62" x2="809" transform="translate(554.5 600)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
+      <text id="Business_Info" data-name="Business Info" transform="translate(465 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Business Info</tspan></text>
+      <circle id="Ellipse_141" data-name="Ellipse 141" cx="30" cy="30" r="30" transform="translate(506 570)" fill="#6f9642"/>
+      <text id="_1" data-name="1" transform="translate(527 611)" fill="#fff" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+      <text id="Store_Info" data-name="Store Info" transform="translate(961 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="-51.592" y="0">Store Info</tspan></text>
+      <g id="Ellipse_144" data-name="Ellipse 144" transform="translate(929 570)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="30" cy="30" r="30" stroke="none"/>
+        <circle cx="30" cy="30" r="29.5" fill="none"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(952 608)" fill="#787878" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+      <text id="Verification" transform="translate(1392 667)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="-59.15" y="0">Verification</tspan></text>
+      <g id="Ellipse_145" data-name="Ellipse 145" transform="translate(1360 570)" fill="#fff" stroke="#707070" stroke-width="1">
+        <circle cx="30" cy="30" r="30" stroke="none"/>
+        <circle cx="30" cy="30" r="29.5" fill="none"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(1383 608)" fill="#787878" font-size="26" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>

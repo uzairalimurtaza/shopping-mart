@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="873" height="88" viewBox="0 0 873 88">
+  <g id="Group_423" data-name="Group 423" transform="translate(-163 -427)">
+    <g id="Group_422" data-name="Group 422">
+      <line id="Line_66" data-name="Line 66" x2="698.395" transform="translate(245.033 452.898)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
+      <g id="Group_421" data-name="Group 421">
+        <text id="Shopping_Cart" data-name="Shopping Cart" transform="translate(227 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-63.442" y="0">Shopping Cart</tspan></text>
+        <circle id="Ellipse_166" data-name="Ellipse 166" cx="26" cy="26" r="26" transform="translate(203 427)" fill="#6f9642"/>
+        <text id="_1" data-name="1" transform="translate(221 460)" fill="#fff" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+        <text id="Proceed_to_Checkout" data-name="Proceed to Checkout" transform="translate(592 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-92.207" y="0">Proceed to Checkout</tspan></text>
+        <g id="Ellipse_167" data-name="Ellipse 167" transform="translate(568 427)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="26" cy="26" r="26" stroke="none"/>
+          <circle cx="26" cy="26" r="25.5" fill="none"/>
+        </g>
+        <text id="_2" data-name="2" transform="translate(588 460)" fill="#787878" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+        <text id="Order_Complete" data-name="Order Complete" transform="translate(964 510)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-71.162" y="0">Order Complete</tspan></text>
+        <g id="Ellipse_168" data-name="Ellipse 168" transform="translate(940 427)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="26" cy="26" r="26" stroke="none"/>
+          <circle cx="26" cy="26" r="25.5" fill="none"/>
+        </g>
+        <text id="_3" data-name="3" transform="translate(960 460)" fill="#787878" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
